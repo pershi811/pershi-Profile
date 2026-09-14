@@ -1,3 +1,5 @@
+## Forked from - https://github.com/JAQLIV/gunslol-open-source
+
 ## A fully open-source site inspired by guns.lol and fakecrime.bio.
 
 ## 🎨 Customize it your way
